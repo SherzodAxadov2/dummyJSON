@@ -9,6 +9,7 @@
     "lint": "eslint --ext .ts,.js,.vue ."
   },
   "devDependencies": {
+    "daisyui": "^4.5.0",
     "eslint-config-prettier": "^8.6.0",
     "nuxt": "^3.2.2"
   },
